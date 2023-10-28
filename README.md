@@ -3,3 +3,4 @@ Hi, I’m @darrentweng. Want to make world a better place by making technologies
 I can be reached on
 - https://devpost.com/darrenweng
 - http://darrenweng.com
+- https://www.linkedin.com/in/darrenweng/
